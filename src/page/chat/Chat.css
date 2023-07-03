@@ -1,0 +1,93 @@
+
+.user{
+  padding: 12px;
+  margin-bottom: 20px;
+}
+.persone{
+  top: 175px;
+}
+.content{
+  /* background-color: red; */
+  width: 100%;
+  height: 100vh;
+  margin-top: 15px;
+}
+.chat-conversation {
+  height: 72vh;
+}
+.chat-leftsidebar{
+  height: 98vh;
+}
+.chat-room-list {
+  max-height: 75vh;
+}
+.chat1{
+  position: absolute;
+  inset: 0px 0px auto auto;
+  margin: 0px;
+  transform: translate(0px, 41px);
+}
+.chat2{
+  margin: 0px;
+}
+.chat3{
+  right: 0px; bottom: 0px;
+}
+.chat5{
+  height: auto; 
+  overflow: hidden scroll;
+}
+.chat7{
+  width: auto;
+  height: 637px;
+}
+.chat8{
+  visibility: hidden;
+}
+.chat9{
+  width: 0px; 
+  display: none
+}
+.chat10{
+  visibility: visible;
+}
+.chat11{
+  height: 25px;
+  transform: translate3d(0px, 0px, 0px);
+  display: block;
+}
+.chat12{
+  margin: -24px;
+}
+.chat13{
+  right: 0px; bottom: 0px
+}
+.chat15{
+  padding: 24px;
+}
+.chat16{
+  height: 100%; 
+  overflow: hidden scroll;
+}
+.chat17{
+  width: auto; 
+  height: 658px;
+}
+.chat18{
+  visibility: hidden;
+}
+.chat19{
+  width: 0px; 
+  display: none;
+}
+.chat20{
+  visibility: hidden;
+}
+.chat21{
+  height: 25px;
+  transform: translate3d(0px, 0px, 0px);
+  display: block;
+}
+.chat21{
+  display: none;
+}
